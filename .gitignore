@@ -1,0 +1,12 @@
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.flv
+privado/
+db.sql
+passwords.txt
+*.zip
+*.rar
+*.7z
